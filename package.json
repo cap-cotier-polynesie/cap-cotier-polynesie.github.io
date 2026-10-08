@@ -1,0 +1,20 @@
+{
+  "name": "cap-cotier-polynesie",
+  "version": "2.0.0",
+  "description": "Application de révision du permis côtier de Polynésie française : cours illustrés, QCM corrigés, examens blancs DPAM (20 questions, 15 min, 3 erreurs) et révision espacée. S’appuie notamment sur les supports de Fluid Tahiti.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "stamp": "node tools/stamp.mjs",
+    "check": "node tools/stamp.mjs --check"
+  },
+  "keywords": [
+    "permis-bateau",
+    "cotier",
+    "ripam",
+    "fsrs",
+    "qcm",
+    "polynesie-francaise",
+    "tahiti"
+  ]
+}

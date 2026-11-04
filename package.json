@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "stamp": "node tools/stamp.mjs",
-    "check": "node tools/stamp.mjs --check"
+    "check": "node tools/stamp.mjs --check && node tools/check-sources.mjs",
+    "check:sources": "node tools/check-sources.mjs"
   },
   "keywords": [
     "permis-bateau",

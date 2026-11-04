@@ -1,0 +1,103 @@
+{
+ "_doc": "Sources des règles polynésiennes, par notion (non publié). Chaque entrée : url, citation exacte du texte, date de vérification. Vérifié par tools/check-sources.mjs. Une règle propre à la Polynésie n'entre dans le cours qu'avec sa source ici ou dans une ligne « Source » de l'encadré.",
+ "concepts": {
+  "vitesse-300m": [
+   {
+    "title": "Délibération n° 78-124 du 27 juillet 1978 (circulation dans les lagons), art. 2",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2020/09/De%CC%81libe%CC%81ration-n%C2%B0-78-124-du-27_07_1978-consolide%CC%81-1.pdf",
+    "quote": "La vitesse doit être inférieure à cinq nœuds à moins de 70 mètres du rivage ou à moins de 70 mètres des installations de pêche fixes ou mobiles et des ouvrages portuaires.",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Arrêté n° 1527 CM du 14/09/2009 (examens), programme de la carte mer, art. 2.1",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2018/03/arrete_no_1527_cm_du_14.09.09_consolide_relatif_aux_examens.pdf",
+    "quote": "la vitesse : limitation à 5 nœuds dans la bande des 300 mètres à partir du rivage",
+    "checked": "2026-11-04"
+   }
+  ],
+  "vitesse-chenaux-port": [
+   {
+    "title": "Délibération n° 78-124, art. 2",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2020/09/De%CC%81libe%CC%81ration-n%C2%B0-78-124-du-27_07_1978-consolide%CC%81-1.pdf",
+    "quote": "à moins de 70 mètres des installations de pêche fixes ou mobiles et des ouvrages portuaires",
+    "checked": "2026-11-04"
+   }
+  ],
+  "plage-limite-300m": [
+   {
+    "title": "DPAM, Règlementation des zones de navigation, zones de mouillage et zones de natation",
+    "url": "https://www.service-public.pf/dpam/reglementation-zones-navigation/",
+    "quote": "Il faut donc comprendre cette limite de 300m comme la limite extérieure de la zone de baignade",
+    "checked": "2026-11-04"
+   }
+  ],
+  "papiers-crr": [
+   {
+    "title": "ANFR, manuel du CRR pour la Polynésie française (2019)",
+    "url": "https://www.anfr.fr/fileadmin/user_upload/manuel-anfr-new_-polynesie._version_web.pdf",
+    "quote": "En Polynésie française, comme en Nouvelle Calédonie, le CRR est obligatoire afin d’utiliser une radio VHF à bord d’un navire.",
+    "checked": "2026-11-04"
+   }
+  ],
+  "permis-cotier-limite": [
+   {
+    "title": "Arrêté n° 668 AM du 8 juillet 1993 (consolidé)",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2018/03/arrete_no_668_am_du_08.07.93_consolide.pdf",
+    "quote": "soit le \"permis mer côtier\" pour une navigation limitée à 5 milles d'un abri",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Arrêté du 17 mai 2011 (titres délivrés en Polynésie française ou en Nouvelle-Calédonie), art. 1",
+    "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024060934",
+    "quote": "Les plaisanciers français et étrangers titulaires d'un permis de conduire les bateaux de plaisance à moteur délivré en Polynésie française depuis le 1er janvier 2008 sont autorisés à piloter un bateau français de plaisance à moteur dans la limite des prérogatives et conditions prévues par le permis dont ils sont détenteurs.",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Décret n° 2007-1167 du 2 août 2007, art. 13 (anciens titres d'État)",
+    "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000648362",
+    "quote": "Les détenteurs d'un permis mer côtier peuvent piloter en eaux maritimes un bateau de plaisance à moteur jusqu'à 6 milles d'un abri.",
+    "checked": "2026-11-04"
+   }
+  ],
+  "armement-feux-main-cotier": [
+   {
+    "title": "DPAM, Équipements de sécurité des navires de plaisance 2023, Signaux de détresse",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2023/06/Equipements-de-se%CC%81curite%CC%81-plaisance-2023.pdf",
+    "quote": "Feux rouges automatiques à main : 6 6 6 3 3 – (catégories 1 à 6)",
+    "checked": "2026-11-04"
+   }
+  ],
+  "armement-coupe-circuit": [
+   {
+    "title": "DPAM, Équipements de sécurité 2023, Navigation",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2023/06/Equipements-de-se%CC%81curite%CC%81-plaisance-2023.pdf",
+    "quote": "Pour les navires < 5 m équipés de moteur dont la puissance est supérieure à 4,5kw (6ch)",
+    "checked": "2026-11-04"
+   }
+  ],
+  "armement-cotier-pavillons": [
+   {
+    "title": "DPAM, Équipements de sécurité 2023, Signaux de détresse",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2023/06/Equipements-de-se%CC%81curite%CC%81-plaisance-2023.pdf",
+    "quote": "Pavillons N et C : catégories 1 à 5, si > 5 m (5e) ; 6e : non",
+    "checked": "2026-11-04"
+   }
+  ],
+  "armement-basique-contenu": [
+   {
+    "title": "DPAM, Équipements de sécurité 2023, Engins de sauvetage et Navigation",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2023/06/Equipements-de-se%CC%81curite%CC%81-plaisance-2023.pdf",
+    "quote": "Gilet ou brassière : 50 N ou plus (5e et 6e) ; Apparaux de mouillage : longueur du navire < 9 m ou < 3000 kg = 1 ligne, > 9 m ou > 3000 kg = 2 lignes ; Gaffe : si > 5 m",
+    "checked": "2026-11-04"
+   }
+  ],
+  "armement-cotier-5-milles": [
+   {
+    "title": "DPAM, Équipements de sécurité 2023, Radiocommunication",
+    "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2023/06/Equipements-de-se%CC%81curite%CC%81-plaisance-2023.pdf",
+    "quote": "VHF obligatoire pour une navigation au delà de 6 milles d'un abri",
+    "checked": "2026-11-04"
+   }
+  ]
+ }
+}

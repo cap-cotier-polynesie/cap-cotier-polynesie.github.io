@@ -25,6 +25,9 @@ jobs:
       - name: Récupération du code source
         uses: actions/checkout@v4
 
+      - name: Vérification des sources des règles polynésiennes
+        run: node tools/check-sources.mjs
+
       - name: Application du stamp de cache busting
         run: |
           node tools/stamp.mjs

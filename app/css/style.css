@@ -343,6 +343,8 @@ a.tile:hover, button.tile:hover { transform: translateY(-2px); box-shadow: var(-
 .callout > strong:first-child { display: block; font-family: var(--f-mono); font-size: .76rem; letter-spacing: .1em; text-transform: uppercase; margin-bottom: 4px; }
 .callout p { margin: 0; }
 .callout p + p { margin-top: .5em; }
+.callout p.src { font-size: .8rem; opacity: .8; }
+.callout p.src a { color: inherit; }
 .callout::before { content: ""; position: absolute; left: 16px; top: 17px; width: 22px; height: 22px; background: currentColor; -webkit-mask: var(--ico) center / contain no-repeat; mask: var(--ico) center / contain no-repeat; }
 .callout.tip { background: var(--lagoon-soft); border-color: color-mix(in srgb, var(--lagoon) 30%, transparent); }
 .callout.tip::before, .callout.tip > strong:first-child { color: var(--lagoon-ink); }
@@ -355,7 +357,7 @@ a.tile:hover, button.tile:hover { transform: translateY(-2px); box-shadow: var(-
 .callout.pf { --ico: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='10' r='4' fill='none' stroke='black' stroke-width='2'/%3E%3Cpath d='M2 17c2.5 0 2.5-1.5 5-1.5s2.5 1.5 5 1.5 2.5-1.5 5-1.5 2.5 1.5 5 1.5M2 21c2.5 0 2.5-1.5 5-1.5s2.5 1.5 5 1.5 2.5-1.5 5-1.5 2.5 1.5 5 1.5' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E"); }
 
 .mnemo { display: grid; grid-template-columns: auto 1fr; gap: 16px; align-items: center; padding: 14px 18px; border: 1.5px dashed var(--line-strong); border-radius: var(--radius-sm); background: var(--card); }
-.mnemo-key { font-family: var(--f-display); font-style: italic; font-weight: 600; font-size: 1.7rem; line-height: 1; color: var(--coral-ink); min-width: 2.2em; text-align: center; font-variation-settings: "SOFT" 100, "opsz" 144; }
+.mnemo-key { font-family: var(--f-display); font-style: italic; font-weight: 600; font-size: 1.7rem; line-height: 1; color: var(--coral-ink); min-width: 2.2em; max-width: 9em; text-align: center; font-variation-settings: "SOFT" 100, "opsz" 144; }
 .mnemo p { margin: 0; }
 
 .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(168px, 1fr)); gap: 12px; }

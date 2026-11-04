@@ -98,6 +98,32 @@
     "quote": "VHF obligatoire pour une navigation au delà de 6 milles d'un abri",
     "checked": "2026-11-04"
    }
+  ],
+  "mammiferes-vitesse": [
+   {
+    "title": "Direction de l'environnement, Comment observer les mammifères marins en Polynésie française (2025)",
+    "url": "https://www.service-public.pf/diren/wp-content/uploads/sites/17/2025/05/MMM_2025.pdf",
+    "quote": "Les navires ne bénéficiant pas d’autorisation doivent rester à l’extérieur de la zone d’observation de 300 mètres.",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Code de l'environnement de la Polynésie française, art. A. 2213-1-4",
+    "url": "https://lexpol.cloud.pf/LexpolAfficheTexte.php?texte=581593",
+    "quote": "La recherche et l'approche aux fins d'observation, ou pour la prise de vue ou de son des baleines et autres mammifères marins sont interdites à toute personne, quelque soit le mode de transport utilisé dans les lagons, les baies, les passes et dans un rayon de 1 kilomètre centre sur l'axe de la passe.",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Code de l'environnement de la Polynésie française, art. A. 2213-1-7 (version au 28/05/2024)",
+    "url": "https://lexpol.cloud.pf/LexpolAfficheTexte.php?texte=581593",
+    "quote": "La vitesse d'approche ne doit pas être supérieure à 3 noeuds à l'intérieur d'un rayon de 300 mètres.",
+    "checked": "2026-11-04"
+   },
+   {
+    "title": "Code de l'environnement de la Polynésie française, art. LP. 2300-2",
+    "url": "https://lexpol.cloud.pf/LexpolAfficheTexte.php?texte=581593",
+    "quote": "sont punies d'une peine d'emprisonnement de deux ans et d'une amende de 17 800 000 F CFP, ou de l'une de ces deux peines",
+    "checked": "2026-11-04"
+   }
   ]
  }
 }

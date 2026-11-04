@@ -786,7 +786,7 @@ window.PERMIS_DATA = {
    "tag": "loisirs"
   },
   "mammiferes-vitesse": {
-   "label": "Cétacés : 3 nœuds dans un rayon de 300 m",
+   "label": "Cétacés : plus de 300 m sans autorisation ; 3 nœuds au plus dans cette zone",
    "tag": "environnement"
   },
   "mammiferes-mere-petit": {
@@ -1184,7 +1184,7 @@ window.PERMIS_DATA = {
    "title": "Les loisirs nautiques",
    "subtitle": "Véhicules nautiques à moteur, ski nautique, plongée, planches à voile, mammifères marins",
    "minutes": 12,
-   "summary": "Les VNM exigent le permis côtier, ne naviguent que de jour et restent à 2 milles du rivage au plus (1 mille pilote debout) ; le ski nautique impose un pilote et un surveillant et une flamme orange ; on passe à plus de 100 m d’un bateau de plongée ; planches et kites sont prioritaires mais limités à 2 milles d’un abri ; les baleines s’observent à distance, à 3 nœuds au plus.",
+   "summary": "Les VNM exigent le permis côtier, ne naviguent que de jour et restent à 2 milles du rivage au plus (1 mille pilote debout) ; le ski nautique impose un pilote et un surveillant et une flamme orange ; on passe à plus de 100 m d’un bateau de plongée ; planches et kites sont prioritaires mais limités à 2 milles d’un abri ; les baleines se regardent de loin : à plus de 300 m sans autorisation, jamais dans les lagons, baies et passes.",
    "keyRules": [
     "VNM : permis côtier, de jour uniquement ; au plus 2 milles du rivage si le pilote est assis, 1 mille s’il est debout (arrêté n° 1097 CM).",
     "Ski nautique : 2 personnes à bord (pilote + surveillant), sauf titulaire du brevet d’État de moniteur de ski nautique.",
@@ -1192,9 +1192,9 @@ window.PERMIS_DATA = {
     "Plongée : pavillon A (ou pavillon rouge à diagonale blanche) ; naviguer à plus de 100 m ; de nuit, feux de capacité de manœuvre restreinte (rouge, blanc, rouge).",
     "Planches à voile et kites : prioritaires sur le bateau à moteur (sauf s’ils vous rattrapent), limités à 2 milles d’un abri.",
     "Près du rivage : moins de 5 nœuds à moins de 70 m (Polynésie) ; la bande des 300 m est la zone de baignade.",
-    "Baleines : 3 nœuds dans un rayon de 300 m, jamais devant ni derrière l’animal, ne pas les poursuivre ni les encercler."
+    "Baleines : sans autorisation, rester à plus de 300 m ; pas d’observation dans les lagons, baies et passes ; 3 nœuds au plus dans les 300 m ; ne jamais poursuivre, encercler ni couper la route."
    ],
-   "html": "<p class=\"lead\">Les lagons et la côte polynésienne sont partagés entre baigneurs, plongeurs, skieurs, jet-skis, kitesurfeurs et baleines. Chaque activité a ses règles : connaître celles des autres permet de naviguer prudemment à côté d’eux.</p>\n\n<h3>Les véhicules nautiques à moteur (VNM)</h3>\n<p>Motos de mer, scooters des mers, jet-skis : ce sont des <strong>navires à moteur</strong> au regard des règles de barre et de route.</p>\n<ul class=\"checklist\">\n  <li>Requiert le <strong>permis côtier</strong> (au-delà de 6 CV / 4,5 kW).</li>\n  <li>Évolue <strong>uniquement de jour</strong> : jamais de nuit, en aucun cas (même avec des feux).</li>\n  <li>Ne s’éloigne pas à plus de <strong>2 milles du rivage</strong> si le pilote est <strong>assis</strong>, et <strong>1 mille du rivage</strong> si le pilote est <strong>debout</strong> (arrêté n° 1097 CM du 17 juillet 2009).</li>\n  <li>Pilote et passagers portent un <strong>équipement individuel de flottabilité</strong>.</li>\n  <li>À bord : <strong>2 feux automatiques à main</strong>, un <strong>dispositif de remorquage</strong> (anneau et bout d’environ 3 fois la longueur du VNM), un <strong>coupe-circuit</strong> relié au pilote.</li>\n  <li>Le VNM est <strong>immatriculé</strong> ; l’immatriculation doit être lisible à 30 m et le bruit est limité à 80 dB à 7,50 m.</li>\n</ul>\n<div class=\"callout pf\"><strong>VNM en Polynésie : 2 milles et 1 mille du rivage</strong><p>Certains supports de cours indiquent 6 milles d’un abri (pilote assis) et 2 milles (pilote debout) : ce sont des chiffres de la réglementation métropolitaine. En Polynésie française, l’arrêté n° 1097 CM du 17 juillet 2009 fixe la limite à <strong>2 milles du rivage</strong> pour un pilote assis et <strong>1 mille du rivage</strong> pour un pilote debout, de jour uniquement, avec un titre de conduite (permis côtier).</p><p class=\"src\">Source : <a href=\"https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2018/07/Arr%C3%AAt%C3%A9-n%C2%B0-1097-CM-du-17-juillet-2009-relatif-%C3%A0-la-conduite-des-v%C3%A9hicules-nautiques-%C3%A0-moteur.pdf\" target=\"_blank\" rel=\"noopener\">arrêté n° 1097 CM</a>.</p></div>\n<div class=\"callout tip\"><strong>Près des plages</strong><p>Vitesse inférieure à <strong>5 nœuds à moins de 70 m du rivage</strong>. Pour rejoindre le large depuis la plage, emprunter le <strong>chenal traversier</strong> balisé ; s’il n’y en a pas, sortir <strong>perpendiculairement au rivage</strong>, à vitesse réduite. Des règles locales peuvent restreindre ou interdire les VNM.</p></div>\n\n<h3>Le ski nautique et les engins tractés</h3>\n<ul class=\"checklist\">\n  <li><strong>2 personnes à bord</strong> du bateau tracteur : <strong>un pilote</strong> et <strong>un surveillant</strong> qui regarde le skieur en permanence.</li>\n  <li>Exception : le pilote titulaire du <strong>brevet d’État de moniteur de ski nautique</strong> (ou d’engins tractés) peut être seul à bord. Le permis côtier ou hauturier ne suffit pas.</li>\n  <li>Le bateau tracteur arbore une <strong>flamme orange fluorescente de 2 m</strong>.</li>\n  <li>Chaque fois que la personne tractée tombe, il faut <strong>remonter la remorque tout de suite</strong> (pour qu’elle ne se prenne pas dans l’hélice), puis revenir doucement vers elle.</li>\n  <li>La personne tractée porte un <strong>gilet</strong> ; le bateau doit pouvoir embarquer toutes les personnes tractées.</li>\n  <li>Les autres bateaux ne se mettent pas dans le sillage d’un bateau qui tire un skieur et restent vigilants près de lui.</li>\n</ul>\n<figure class=\"fig\" data-fig=\"flag\" data-flag=\"ski\"><figcaption>Flamme orange du bateau tracteur</figcaption></figure>\n\n<h3>La plongée sous-marine</h3>\n<div class=\"card-grid\">\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"flag\" data-flag=\"A\"><figcaption>Pavillon A</figcaption></figure>\n    <h4>Pavillon A</h4>\n    <p>Blanc (côté mât) et bleu, en queue d’aronde : « J’ai des plongeurs en immersion ; tenez-vous à distance et passez lentement. »</p>\n  </div>\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"flag\" data-flag=\"diver-red\"><figcaption>Pavillon rouge à diagonale blanche</figcaption></figure>\n    <h4>Pavillon plongée rouge à diagonale blanche</h4>\n    <p>Fond <strong>rouge barré d’une diagonale blanche</strong>. Même signification : plongée sous-marine en cours.</p>\n  </div>\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"lights\" data-rows=\"R|W|R\" data-view=\"feux visibles sur tout l’horizon\"><figcaption>De nuit</figcaption></figure>\n    <h4>De nuit</h4>\n    <p>Le bateau de plongée montre les feux d’un <strong>navire à capacité de manœuvre restreinte</strong> : <strong>rouge, blanc, rouge</strong> superposés.</p>\n  </div>\n</div>\n<ul>\n  <li>Vous devez naviguer à <strong>plus de 100 m</strong> d’un bateau qui montre ce pavillon (zone de protection des plongeurs).</li>\n  <li>N’entrer dans la zone qu’avec une raison valable : <strong>ralentir fortement</strong>, surveiller les <strong>bulles</strong> (ne pas passer dessus), être prêt à passer au point mort ; mêmes précautions en sortant de la zone.</li>\n</ul>\n\n<h3>Planches à voile et kitesurf</h3>\n<ul>\n  <li>Ce sont des <strong>voiliers</strong> : ils sont <strong>prioritaires</strong> par rapport à votre bateau à moteur. Une planche en route de collision, même sur votre bâbord : <strong>c’est vous qui manœuvrez</strong>, sauf si c’est elle qui vous rattrape : le navire rattrapant s’écarte toujours.</li>\n  <li>Leur navigation est limitée à <strong>2 milles d’un abri</strong>.</li>\n</ul>\n\n<h3>Les mammifères marins</h3>\n<div class=\"callout pf\" data-unsourced><strong>Baleines à bosse en Polynésie</strong><p>Les baleines à bosse séjournent dans les eaux polynésiennes environ de <strong>juillet à novembre</strong> pour se reproduire et mettre bas. Une baleine pèse jusqu’à <strong>40 tonnes</strong> : elle peut représenter un danger pour votre sécurité. Les règles d’observation sont fixées par la réglementation polynésienne de l’environnement.</p></div>\n<ul class=\"checklist\">\n  <li><strong>Réduire la vitesse à 3 nœuds</strong> dans un rayon de <strong>300 m</strong> autour du cétacé (zone de prudence) ; y éviter les brusques changements de direction et de régime moteur.</li>\n  <li><strong>Zone interdite</strong> : pas de bateau <strong>devant ni derrière</strong> l’animal ; ne pas attendre sur sa route et <strong>ne pas poursuivre</strong> les baleines.</li>\n  <li>Rester sur le côté de l’animal, à la distance indiquée par la réglementation (bateaux à <strong>50 m</strong> sur le côté, <strong>100 m</strong> dans certaines situations). Les nageurs restent à 30 m et les avions au-dessus de 300 m.</li>\n  <li>Ne pas naviguer au milieu d’un groupe : se mettre sur le côté.</li>\n  <li><strong>Ne pas encercler</strong> les baleines.</li>\n  <li>Ne jamais se placer <strong>entre une mère et son petit</strong>.</li>\n  <li>Ne pas <strong>bloquer</strong> les baleines contre le récif.</li>\n  <li>Les sonars utilisés à d’autres fréquences que celles de la navigation sont interdits.</li>\n</ul>\n<div class=\"photo-pair\">\n  <figure class=\"photo\"><img src=\"assets/c/baleines-groupe.webp\" width=\"720\" height=\"340\" loading=\"lazy\" alt=\"À gauche, un bateau barré d’une croix rouge au milieu de trois baleines ; à droite, trois bateaux alignés sur le côté d’une baleine, à 50 m.\"><figcaption>Pas au milieu d’un groupe : sur le côté, à 50 m.</figcaption></figure>\n  <figure class=\"photo\"><img src=\"assets/c/baleines-mere-petit.webp\" width=\"720\" height=\"340\" loading=\"lazy\" alt=\"À gauche, un bateau barré d’une croix rouge entre une baleine et son petit ; à droite, deux bateaux restent à l’écart de la mère et du petit.\"><figcaption>Jamais entre une mère et son petit.</figcaption></figure>\n</div>"
+   "html": "<p class=\"lead\">Les lagons et la côte polynésienne sont partagés entre baigneurs, plongeurs, skieurs, jet-skis, kitesurfeurs et baleines. Chaque activité a ses règles : connaître celles des autres permet de naviguer prudemment à côté d’eux.</p>\n\n<h3>Les véhicules nautiques à moteur (VNM)</h3>\n<p>Motos de mer, scooters des mers, jet-skis : ce sont des <strong>navires à moteur</strong> au regard des règles de barre et de route.</p>\n<ul class=\"checklist\">\n  <li>Requiert le <strong>permis côtier</strong> (au-delà de 6 CV / 4,5 kW).</li>\n  <li>Évolue <strong>uniquement de jour</strong> : jamais de nuit, en aucun cas (même avec des feux).</li>\n  <li>Ne s’éloigne pas à plus de <strong>2 milles du rivage</strong> si le pilote est <strong>assis</strong>, et <strong>1 mille du rivage</strong> si le pilote est <strong>debout</strong> (arrêté n° 1097 CM du 17 juillet 2009).</li>\n  <li>Pilote et passagers portent un <strong>équipement individuel de flottabilité</strong>.</li>\n  <li>À bord : <strong>2 feux automatiques à main</strong>, un <strong>dispositif de remorquage</strong> (anneau et bout d’environ 3 fois la longueur du VNM), un <strong>coupe-circuit</strong> relié au pilote.</li>\n  <li>Le VNM est <strong>immatriculé</strong> ; l’immatriculation doit être lisible à 30 m et le bruit est limité à 80 dB à 7,50 m.</li>\n</ul>\n<div class=\"callout pf\"><strong>VNM en Polynésie : 2 milles et 1 mille du rivage</strong><p>Certains supports de cours indiquent 6 milles d’un abri (pilote assis) et 2 milles (pilote debout) : ce sont des chiffres de la réglementation métropolitaine. En Polynésie française, l’arrêté n° 1097 CM du 17 juillet 2009 fixe la limite à <strong>2 milles du rivage</strong> pour un pilote assis et <strong>1 mille du rivage</strong> pour un pilote debout, de jour uniquement, avec un titre de conduite (permis côtier).</p><p class=\"src\">Source : <a href=\"https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2018/07/Arr%C3%AAt%C3%A9-n%C2%B0-1097-CM-du-17-juillet-2009-relatif-%C3%A0-la-conduite-des-v%C3%A9hicules-nautiques-%C3%A0-moteur.pdf\" target=\"_blank\" rel=\"noopener\">arrêté n° 1097 CM</a>.</p></div>\n<div class=\"callout tip\"><strong>Près des plages</strong><p>Vitesse inférieure à <strong>5 nœuds à moins de 70 m du rivage</strong>. Pour rejoindre le large depuis la plage, emprunter le <strong>chenal traversier</strong> balisé ; s’il n’y en a pas, sortir <strong>perpendiculairement au rivage</strong>, à vitesse réduite. Des règles locales peuvent restreindre ou interdire les VNM.</p></div>\n\n<h3>Le ski nautique et les engins tractés</h3>\n<ul class=\"checklist\">\n  <li><strong>2 personnes à bord</strong> du bateau tracteur : <strong>un pilote</strong> et <strong>un surveillant</strong> qui regarde le skieur en permanence.</li>\n  <li>Exception : le pilote titulaire du <strong>brevet d’État de moniteur de ski nautique</strong> (ou d’engins tractés) peut être seul à bord. Le permis côtier ou hauturier ne suffit pas.</li>\n  <li>Le bateau tracteur arbore une <strong>flamme orange fluorescente de 2 m</strong>.</li>\n  <li>Chaque fois que la personne tractée tombe, il faut <strong>remonter la remorque tout de suite</strong> (pour qu’elle ne se prenne pas dans l’hélice), puis revenir doucement vers elle.</li>\n  <li>La personne tractée porte un <strong>gilet</strong> ; le bateau doit pouvoir embarquer toutes les personnes tractées.</li>\n  <li>Les autres bateaux ne se mettent pas dans le sillage d’un bateau qui tire un skieur et restent vigilants près de lui.</li>\n</ul>\n<figure class=\"fig\" data-fig=\"flag\" data-flag=\"ski\"><figcaption>Flamme orange du bateau tracteur</figcaption></figure>\n\n<h3>La plongée sous-marine</h3>\n<div class=\"card-grid\">\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"flag\" data-flag=\"A\"><figcaption>Pavillon A</figcaption></figure>\n    <h4>Pavillon A</h4>\n    <p>Blanc (côté mât) et bleu, en queue d’aronde : « J’ai des plongeurs en immersion ; tenez-vous à distance et passez lentement. »</p>\n  </div>\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"flag\" data-flag=\"diver-red\"><figcaption>Pavillon rouge à diagonale blanche</figcaption></figure>\n    <h4>Pavillon plongée rouge à diagonale blanche</h4>\n    <p>Fond <strong>rouge barré d’une diagonale blanche</strong>. Même signification : plongée sous-marine en cours.</p>\n  </div>\n  <div class=\"card\">\n    <figure class=\"fig\" data-fig=\"lights\" data-rows=\"R|W|R\" data-view=\"feux visibles sur tout l’horizon\"><figcaption>De nuit</figcaption></figure>\n    <h4>De nuit</h4>\n    <p>Le bateau de plongée montre les feux d’un <strong>navire à capacité de manœuvre restreinte</strong> : <strong>rouge, blanc, rouge</strong> superposés.</p>\n  </div>\n</div>\n<ul>\n  <li>Vous devez naviguer à <strong>plus de 100 m</strong> d’un bateau qui montre ce pavillon (zone de protection des plongeurs).</li>\n  <li>N’entrer dans la zone qu’avec une raison valable : <strong>ralentir fortement</strong>, surveiller les <strong>bulles</strong> (ne pas passer dessus), être prêt à passer au point mort ; mêmes précautions en sortant de la zone.</li>\n</ul>\n\n<h3>Planches à voile et kitesurf</h3>\n<ul>\n  <li>Ce sont des <strong>voiliers</strong> : ils sont <strong>prioritaires</strong> par rapport à votre bateau à moteur. Une planche en route de collision, même sur votre bâbord : <strong>c’est vous qui manœuvrez</strong>, sauf si c’est elle qui vous rattrape : le navire rattrapant s’écarte toujours.</li>\n  <li>Leur navigation est limitée à <strong>2 milles d’un abri</strong>.</li>\n</ul>\n\n<h3>Les mammifères marins</h3>\n<div class=\"callout pf\"><strong>Baleines à bosse en Polynésie</strong><p>Les baleines à bosse séjournent dans les eaux polynésiennes environ de <strong>juillet à novembre</strong> pour se reproduire et mettre bas. Une baleine pèse jusqu’à <strong>40 tonnes</strong> : elle peut représenter un danger pour votre sécurité. Les règles d’approche relèvent du code de l’environnement (Direction de l’environnement), pas de la réglementation maritime, et elles ont été durcies fin 2024.</p><p class=\"src\">Sources : <a href=\"https://lexpol.cloud.pf/LexpolAfficheTexte.php?texte=581593\" target=\"_blank\" rel=\"noopener\">code de l’environnement de la Polynésie française, art. A. 2213-1-4 à A. 2213-1-8 et LP. 2300-2</a> ; <a href=\"https://www.service-public.pf/diren/wp-content/uploads/sites/17/2025/05/MMM_2025.pdf\" target=\"_blank\" rel=\"noopener\">Direction de l’environnement, Comment observer les mammifères marins (2025)</a>.</p></div>\n<ul class=\"checklist\">\n  <li>Sans autorisation d’observation (c’est le cas de tout plaisancier), rester <strong>à plus de 300 m</strong> de l’animal. Seuls quelques prestataires autorisés entrent dans cette zone (3 navires au plus), sans jamais s’approcher à moins de <strong>100 m</strong>.</li>\n  <li>L’observation des baleines est <strong>interdite dans les lagons, les baies et les passes</strong>, et dans un rayon de 1 km autour de l’axe d’une passe.</li>\n  <li>Si une baleine surgit près de vous : <strong>3 nœuds au plus</strong> dans la zone des 300 m, sans changement brusque de direction ni de régime moteur, puis reprenez vos distances en route parallèle. Si l’animal s’approche de lui-même, moteur <strong>au point mort</strong>, sans l’arrêter.</li>\n  <li><strong>Ne pas poursuivre</strong> les baleines, ne pas leur <strong>couper la route</strong>, ne pas les approcher <strong>de face ni par l’arrière</strong>, ne pas attendre sur leur route.</li>\n  <li>Personne ne doit entrer dans un rayon de <strong>15 m</strong> autour de l’animal ; les aéronefs restent <strong>au-dessus de 300 m</strong>.</li>\n  <li>Ne pas naviguer au milieu d’un groupe : se mettre sur le côté.</li>\n  <li><strong>Ne pas encercler</strong> les baleines.</li>\n  <li>Ne jamais se placer <strong>entre une mère et son petit</strong>.</li>\n  <li>Ne pas <strong>bloquer</strong> les baleines contre le récif.</li>\n  <li>Les sonars utilisés à d’autres fréquences que celles de la navigation sont interdits.</li>\n  <li>Poursuivre ou perturber volontairement une baleine est un délit : jusqu’à <strong>2 ans d’emprisonnement</strong> et <strong>17,8 millions F CFP</strong> d’amende.</li>\n</ul>\n<div class=\"photo-pair\">\n  <figure class=\"photo\"><img src=\"assets/c/baleines-groupe.webp\" width=\"720\" height=\"340\" loading=\"lazy\" alt=\"À gauche, un bateau barré d’une croix rouge au milieu de trois baleines ; à droite, trois bateaux alignés sur le côté d’une baleine, à distance.\"><figcaption>Pas au milieu d’un groupe : sur le côté, à distance.</figcaption></figure>\n  <figure class=\"photo\"><img src=\"assets/c/baleines-mere-petit.webp\" width=\"720\" height=\"340\" loading=\"lazy\" alt=\"À gauche, un bateau barré d’une croix rouge entre une baleine et son petit ; à droite, deux bateaux restent à l’écart de la mère et du petit.\"><figcaption>Jamais entre une mère et son petit.</figcaption></figure>\n</div>"
   },
   {
    "id": "mod4_sec4",
@@ -9545,7 +9545,7 @@ window.PERMIS_DATA = {
   {
    "id": "gen_mod4_sec3_9",
    "sectionId": "mod4_sec3",
-   "question": "Vous apercevez une baleine à bosse. À quelle vitesse maximale devez-vous naviguer dans un rayon de 300 m autour d’elle ?",
+   "question": "Une baleine à bosse fait surface à 200 m de votre bateau. Quelle vitesse ne devez-vous pas dépasser dans ce rayon de 300 m ?",
    "options": {
     "A": "3 nœuds",
     "B": "5 nœuds",
@@ -9553,7 +9553,7 @@ window.PERMIS_DATA = {
     "D": "Pas de limite"
    },
    "correct": "A",
-   "explanation": "Dans la zone de prudence de 300 m autour d’un cétacé, la vitesse est réduite à 3 nœuds, sans changement brusque de direction ni de régime.",
+   "explanation": "Un plaisancier sans autorisation reste à plus de 300 m d’une baleine. S’il se retrouve dans cette zone, il navigue à 3 nœuds au plus, sans changement brusque de direction ni de régime, et s’éloigne en route parallèle.",
    "tags": [
     "environnement"
    ],
@@ -17965,7 +17965,7 @@ window.PERMIS_DATA = {
   {
    "id": "var_mammiferes-vitesse_1",
    "sectionId": "mod4_sec3",
-   "question": "Dans quel rayon autour d’une baleine faut-il limiter sa vitesse à 3 nœuds ?",
+   "question": "Sans autorisation d’observation, à quelle distance d’une baleine devez-vous rester au minimum ?",
    "options": {
     "A": "50 m",
     "B": "100 m",
@@ -17973,7 +17973,7 @@ window.PERMIS_DATA = {
     "D": "1 mille"
    },
    "correct": "C",
-   "explanation": "La vitesse est réduite à 3 nœuds dans un rayon de 300 m autour du cétacé (zone de prudence).",
+   "explanation": "Depuis fin 2024, les navires sans autorisation (dont tous les plaisanciers) restent à l’extérieur d’un rayon de 300 m autour de l’animal. Les prestataires autorisés peuvent y entrer, sans s’approcher à moins de 100 m.",
    "tags": [
     "environnement"
    ],
@@ -17989,11 +17989,11 @@ window.PERMIS_DATA = {
    "options": {
     "A": "Je réduis à 10 nœuds",
     "B": "Je garde ma vitesse, elle s’écartera d’elle-même à mon approche",
-    "C": "Je réduis à 3 nœuds au plus, sans manœuvre brusque",
+    "C": "Je réduis à 3 nœuds et je m’éloigne sans manœuvre brusque",
     "D": "J’accélère pour passer avant elle"
    },
    "correct": "C",
-   "explanation": "À moins de 300 m d’un cétacé, la vitesse est limitée à 3 nœuds et on évite les changements brusques de direction et de régime moteur.",
+   "explanation": "Un plaisancier sans autorisation reste à plus de 300 m d’une baleine. S’il se retrouve dans cette zone, il navigue à 3 nœuds au plus, sans changement brusque de direction ni de régime, et s’éloigne en route parallèle.",
    "tags": [
     "environnement"
    ],
@@ -18010,7 +18010,7 @@ window.PERMIS_DATA = {
     "D": "Faire des cercles autour de l’animal pour l’observer"
    },
    "correct": "B",
-   "explanation": "Dans un rayon de 300 m autour du cétacé : 3 nœuds au maximum et pas de brusques changements de direction ni de régime moteur.",
+   "explanation": "Un plaisancier sans autorisation reste à plus de 300 m d’une baleine. S’il se retrouve dans cette zone, il navigue à 3 nœuds au plus, sans changement brusque de direction ni de régime, et s’éloigne en route parallèle. On n’encercle jamais l’animal.",
    "tags": [
     "environnement"
    ],
@@ -18019,15 +18019,15 @@ window.PERMIS_DATA = {
   {
    "id": "var_mammiferes-vitesse_4",
    "sectionId": "mod4_sec3",
-   "question": "Dans le lagon, à moins de 70 m du rivage, une baleine à bosse croise à 150 m de vous. Quelle est votre vitesse maximale ?",
+   "question": "Vous êtes dans le lagon et apercevez une baleine à bosse à 150 m. Pouvez-vous vous approcher pour l’observer ?",
    "options": {
-    "A": "5 nœuds, comme près du rivage",
-    "B": "8 nœuds",
-    "C": "3 nœuds",
-    "D": "Aucune limite si vous gardez vos distances"
+    "A": "Oui, à 3 nœuds au plus",
+    "B": "Oui, en restant à 100 m",
+    "C": "Non",
+    "D": "Oui, moteur coupé"
    },
    "correct": "C",
-   "explanation": "Les deux règles s’appliquent en même temps : moins de 5 nœuds à moins de 70 m du rivage, et 3 nœuds dans un rayon de 300 m autour d’un cétacé. On respecte la plus basse : 3 nœuds.",
+   "explanation": "Non : l’observation des baleines est interdite dans les lagons, les baies et les passes, et un plaisancier sans autorisation reste à plus de 300 m. Si elle est proche, 3 nœuds au plus, sans manœuvre brusque, et on s’éloigne.",
    "tags": [
     "environnement"
    ],
@@ -18058,12 +18058,12 @@ window.PERMIS_DATA = {
    "sectionId": "mod4_sec3",
    "question": "À 400 m devant vous, une baleine nage avec son baleineau, à quelques dizaines de mètres l’un de l’autre. Votre route passe entre les deux. Que faites-vous ?",
    "options": {
-    "A": "Je ralentis et me décale sur le côté du groupe, sans passer entre eux",
+    "A": "Je ralentis et m’écarte du groupe, sans passer entre eux",
     "B": "Je garde ma route en ralentissant à 3 nœuds dans les 300 m",
     "C": "Je passe entre les deux rapidement pour ne pas les déranger longtemps"
    },
    "correct": "A",
-   "explanation": "Il ne faut jamais se placer entre une mère et son petit, quelle que soit la vitesse : on ralentit (3 nœuds dans un rayon de 300 m) et on se décale sur le côté du groupe.",
+   "explanation": "Il ne faut jamais se placer entre une mère et son petit, quelle que soit la vitesse : on ralentit et on s’écarte pour rester à plus de 300 m du groupe.",
    "tags": [
     "environnement"
    ],
@@ -18095,7 +18095,7 @@ window.PERMIS_DATA = {
     "D": "C’est interdit, sauf si la mère est loin"
    },
    "correct": "C",
-   "explanation": "Ne jamais se placer entre une mère et son petit ; on observe depuis le côté, à distance.",
+   "explanation": "Ne jamais se placer entre une mère et son petit. Sans autorisation d’observation, on reste à plus de 300 m des baleines.",
    "tags": [
     "environnement"
    ],

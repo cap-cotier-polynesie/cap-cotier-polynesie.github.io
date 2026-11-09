@@ -32,6 +32,13 @@ jobs:
         run: |
           node tools/stamp.mjs
 
+      - name: Injection de l'analyse d'audience (Tidesight)
+        if: vars.TIDESIGHT_SITE_ID != ''
+        env:
+          TIDESIGHT_SITE_ID: ${{ vars.TIDESIGHT_SITE_ID }}
+          TIDESIGHT_URL: ${{ vars.TIDESIGHT_URL }}
+        run: node tools/inject-analytics.mjs
+
 
       - name: Configuration de GitHub Pages
         uses: actions/configure-pages@v5
